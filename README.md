@@ -28,7 +28,7 @@ The dataset is divided into three parts: training, which contains 60% of the ima
 
 Github link: https://github.com/maadikali/plant.disease.detection/tree/master
 
-YouTube link: Plant Disease Detector - YouTube
+YouTube link: https://youtu.be/CJtS7C_F9ng
 
 
 
