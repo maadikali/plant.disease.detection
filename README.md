@@ -36,7 +36,7 @@ Data and Methods
 
 Information about the data (probably analysis of the data with some visualisations)
 
-Overall, my dataset includes more than 200 images of leaves that are either classified as healthy or diseased, for example below is a tomato leaf
+Overall, my dataset images of leaves that are either classified as healthy or diseased, for example below is a tomato leaf
 that has bacterial disease and a healthy potato leaf. 
 
 
